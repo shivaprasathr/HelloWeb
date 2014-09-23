@@ -11,7 +11,80 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-1.1.3-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-adapters-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-api-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/commons-logging/commons-logging-1.1.3-bin/commons-logging-1.1.3/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Servlet api/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-aop-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-aop-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-aop-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-aspects-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-aspects-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-aspects-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-beans-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-beans-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-build-src-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-support-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-support-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-support-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-core-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-core-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-core-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-expression-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-expression-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-expression-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-framework-bom-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-framework-bom-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-framework-bom-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-instrument-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-instrument-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-instrument-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-instrument-tomcat-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-instrument-tomcat-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-instrument-tomcat-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-jdbc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-jdbc-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-jdbc-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-jms-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-jms-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-jms-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-messaging-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-messaging-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-messaging-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-orm-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-orm-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-orm-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-oxm-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-oxm-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-oxm-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-test-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-test-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-test-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-tx-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-tx-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-tx-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-web-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-web-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-portlet-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-portlet-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-portlet-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-websocket-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-websocket-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Shivaprasath/Jar Files/Spring 4.0/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-websocket-4.0.0.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
